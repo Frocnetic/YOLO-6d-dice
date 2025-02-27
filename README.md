@@ -10,7 +10,7 @@ Dette projekt bruger en YOLO-model til at genkende terningekast fra et webcam-fe
 1. [Funktionalitet](#Funktionalitet)
 3. [Krav](#Krav)
 4. [Datasæt](#Datasæt)
-5. [Evt. forbedringer eller tilføjelser](#Evt)
+5. [Forbedringer](#Forbedringer)
 
 ## Funktionalitet
 
@@ -40,7 +40,7 @@ Ultralytics YOLO
 Download link til datasættet via. google drive. Samling af andres datasæt med lidt egen data:
 https://drive.google.com/file/d/1k9-I0vSxcb4q0PFtzjIrivhMYs6Rd-HC/view?usp=sharing
 
-## Evt. forbedringer eller tilføjelser
+## Forbedringer
 
 Forbedret nøjagtighed af terningegenkendelse.
 
