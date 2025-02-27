@@ -1,8 +1,8 @@
-Realtime Terningegenkendelse med YOLO og Flask
+#Realtime Terningegenkendelse med YOLO og Flask
 
 Dette projekt bruger en YOLO-model til at genkende terningekast fra et webcam-feed og gør resultatet tilgængeligt via et Flask API. Flask-serveren gør det muligt for et eksternt spil at hente de registrerede terningekast.
 
-Funktioner
+##Funktioner
 
 Realtime detektion af terninger ved hjælp af YOLO.
 
@@ -12,7 +12,7 @@ Flask API til at hente det seneste terningekast.
 
 Flask-server og videobehandling kører parallelt ved hjælp af threading.
 
-Krav
+##Krav
 
 For at køre projektet skal følgende være installeret:
 
