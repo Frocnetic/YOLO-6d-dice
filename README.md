@@ -14,7 +14,7 @@ Dette projekt bruger en YOLO-model til at genkende terningekast fra et webcam-fe
 
 
 
-
+d
 
 
 
@@ -33,8 +33,7 @@ Flask-server og videobehandling kører parallelt ved hjælp af threading.
 
 
 
-
-
+d
 
 
 
@@ -54,7 +53,7 @@ Ultralytics YOLO
 
 
 
-
+d
 
 
 
@@ -67,7 +66,7 @@ https://drive.google.com/file/d/1k9-I0vSxcb4q0PFtzjIrivhMYs6Rd-HC/view?usp=shari
 
 
 
-
+d
 
 
 
