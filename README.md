@@ -1,3 +1,5 @@
+**<ins>Author:</ins>** Frode Oksbøl Therkelsen og Lucas Skov Christensen
+
 # Realtime Terningegenkendelse med YOLO og Flask
 
 Dette projekt bruger en YOLO-model til at genkende terningekast fra et webcam-feed og gør resultatet tilgængeligt via et Flask API. Flask-serveren gør det muligt for et eksternt spil at hente de registrerede terningekast.
