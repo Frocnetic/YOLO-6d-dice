@@ -25,3 +25,13 @@ Flask
 Flask-CORS
 
 Ultralytics YOLO
+
+## Evt. forbedringer:
+
+Dette projekt kan udvides med:
+
+Forbedret nøjagtighed af terningegenkendelse.
+
+Integration med et spil.
+
+Database til at gemme tidligere kast.
