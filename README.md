@@ -11,6 +11,7 @@ Dette projekt bruger en YOLO-model til at genkende terningekast fra et webcam-fe
 3. [Krav](#Krav)
 4. [Datasæt](#Datasæt)
 5. [Forbedringer](#Forbedringer)
+6. [Tilføjelser](#Tilføjelser)
 
 ## Funktionalitet
 
@@ -43,6 +44,8 @@ https://drive.google.com/file/d/1k9-I0vSxcb4q0PFtzjIrivhMYs6Rd-HC/view?usp=shari
 ## Forbedringer
 
 Forbedret nøjagtighed af terningegenkendelse.
+
+## Tilføjelser
 
 Integration med et spil.
 
