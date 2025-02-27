@@ -12,6 +12,14 @@ Dette projekt bruger en YOLO-model til at genkende terningekast fra et webcam-fe
 4. [Datasæt](#Datasæt)
 5. [Evt. forbedringer eller tilføjelser](#Evt. forbedringer eller tilføjelser)
 
+
+
+
+
+
+
+
+
 ## Funktionalitet
 
 Realtime detektion af terninger ved hjælp af YOLO.
@@ -21,6 +29,14 @@ Viser live videofeed med markerede terninger.
 Flask API til at hente det seneste terningekast.
 
 Flask-server og videobehandling kører parallelt ved hjælp af threading.
+
+
+
+
+
+
+
+
 
 ## Krav
 
@@ -36,9 +52,25 @@ Flask-CORS
 
 Ultralytics YOLO
 
+
+
+
+
+
+
+
 ## Datasæt
 Download link til datasættet via. google drive. Samling af andres datasæt med lidt egen data:
 https://drive.google.com/file/d/1k9-I0vSxcb4q0PFtzjIrivhMYs6Rd-HC/view?usp=sharing
+
+
+
+
+
+
+
+
+
 
 ## Evt. forbedringer eller tilføjelser
 
@@ -104,6 +136,6 @@ Database til at gemme tidligere kast.
 
 
 
-
+d
 
 
