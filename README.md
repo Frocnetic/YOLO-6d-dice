@@ -29,9 +29,7 @@ Flask-CORS
 
 Ultralytics YOLO
 
-## Evt. forbedringer:
-
-Dette projekt kan udvides med:
+## Evt. forbedringer eller tilføjelser:
 
 Forbedret nøjagtighed af terningegenkendelse.
 
