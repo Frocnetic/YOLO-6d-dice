@@ -1,6 +1,6 @@
 **<ins>Author:</ins>** Frode Oksbøl Therkelsen og Lucas Skov Christensen
 
-**<ins>Last Updated:</ins>** 27/02-2025
+**<ins>Last Updated:</ins>** 28/02-2025
 
 # Realtime Terningegenkendelse med YOLO og Flask
 
