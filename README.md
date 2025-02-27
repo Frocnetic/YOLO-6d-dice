@@ -1,1 +1,1 @@
-# YOLO-6d-dice
+# YOLO-d6-dice
